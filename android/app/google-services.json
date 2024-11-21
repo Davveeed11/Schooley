@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170226186004",
+    "project_id": "schooley-apk",
+    "storage_bucket": "schooley-apk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170226186004:android:5fbe7a393d47357dd4f401",
+        "android_client_info": {
+          "package_name": "com.example.schooley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhh1_XXQS4z43LuoU_nPZCFRHNBwZzsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
